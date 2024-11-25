@@ -27,6 +27,6 @@ a {
   font-family: sans-serif;
 }
 a:hover {
-  transform: scale(1.025);
+  transform: scale(1.015);
   transition: 0.5s;
 }
